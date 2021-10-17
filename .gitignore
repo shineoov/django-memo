@@ -1,0 +1,13 @@
+# basics
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# pycharm
+.idea/
+
+# pytest
+.pytest_cache/
+
+db.sqlite3
